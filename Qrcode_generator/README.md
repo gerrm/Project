@@ -8,6 +8,6 @@ you have to open the command prompt or the terminal if you are on Linux and type
 to write code can be used any type of IDE, for example VsCode, PyCharm, Spyder etc
 #### this is an example of the app
 
-![picture](github/qrcode.png)
+![picture](images/qrcode.png)
 
 
